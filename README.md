@@ -1,7 +1,7 @@
 # Claude Code skills for Mentio
 
 Skills that turn [Mentio](https://mentio.dev) mentions into a routine inside
-Claude Code. Mentio watches Reddit, Hacker News, X, GitHub, Bluesky, LinkedIn, TikTok,
+Claude Code. Mentio watches Reddit, Hacker News, X, GitHub, Bluesky, LinkedIn, TikTok, Instagram,
 Stack Overflow, DEV, YouTube and news for your keywords and scores every match
 for relevance, sentiment and intent; its MCP server gives Claude those mentions
 as tools. These skills are the procedures on top.
